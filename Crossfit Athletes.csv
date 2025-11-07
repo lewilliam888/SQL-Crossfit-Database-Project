@@ -1,0 +1,204 @@
+height,affiliateid,countryoforiginname,weight,affiliatename,status,bibid,competitorid,firstname,gender,age,lastname,countryoforigincode,overallrank,overallscore,division,countrypopulation
+1.56,44599,United States,89.8,CrossFit Passion,CUT,108,1690,Travis,M,28,Mayer,US,12,368,Men,330025000
+1.77,44647,Kenya,86.2,CrossFit Progression,CUT,215,1721,Jeremy,M,28,Mghenyi,KE,89,-14,Men,52573973
+1.74,44800,United States,86.2,Peak 360 CrossFit,ACT,302,2725,Noah,M,28,Ohlsen,US,2,949,Men,330025000
+1.56,44725,Switzerland,90.7,CrossFit Kreis 9,CUT,307,2766,Lukas,M,26,Esslinger,CH,34,191,Men,8570146
+1.55,44880,United States,83.9,CrossFit Rage,ACT,359,4895,Jordan,X,35,Troyan,US,2,600,Men (35-39),330025000
+1.55,44852,United States,87.1,CrossFit 061,ACT,351,5312,Nicholas,X,35,Urankar,US,1,650,Men (35-39),330025000
+1.83,44948,United States,95.3,CrossFit Fond du Lac,CUT,314,8325,Nick,M,33,Bloch,US,41,116,Men,330025000
+1.77,44741,Australia,87.1,CrossFit Lionmode,CUT,118,8690,Dean,M,28,Linder-Leighton,AU,36,170,Men,25527200
+1.55,44929,South Africa,91.2,CrossFit Algoa,ACT,404,8743,David,X,41,Levey,ZA,6,420,Men (40-44),58775022
+1.55,44743,Tonga,81.2,CrossFit 3216,CUT,232,9839,Andre,M,36,Alipate,TO,95,-20,Men,100651
+1.55,44838,Canada,79.4,CrossFit Mozomo,ACT,555,12819,Bruce,X,55,Young,CA,5,460,Men (55-59),37770900
+1.71,44632,United States,79.4,CrossFit Mayhem,WD,459,13342,Bruce,X,46,Thomas,US,10,350,Men (45-49),330025000
+1.55,44792,Australia,87.1,CrossFit Mode,ACT,303,16080,James,M,28,Newbury,AU,5,728,Men,25527200
+1.77,44858,United States,81.6,CrossFit 215,ACT,452,17714,Mike,X,45,Rando,US,6,400,Men (45-49),330025000
+1.8,44767,Denmark,83.9,CrossFit ReykjavÃ­k,CUT,127,18543,Frederik,M,32,Aegidius,DK,143T,,Men,5814461
+1.71,44934,Iceland,73.9,CrossFit Sport,ACT,605,18975,Hilmar,X,62,Hardarson,IS,5,460,Men (60+),360390
+1.86,44774,United States,97.5,CrossFit Pallas,CUT,120,20698,Tim,M,29,Paulson,US,107,-32,Men,330025000
+1.55,44626,China,88,CrossFit CFPT,CUT,145,23655,Ant,M,29,Haynes,CN,27,218,Men,1399450000
+1.83,44756,Sweden,95.7,CrossFit Nordic,CUT,128,24309,Lukas,M,28,HÃ¶gberg,SE,17,319,Men,10290832
+1.86,,Canada,90.7,,ACT,606,24918,Gord,X,60,MacKinnon,CA,2,490,Men (60+),37770900
+1.77,44936,United States,86.2,CrossFit Kinesis,WD,353,25569,Kyle,X,37,Kasperbauer,US,10,,Men (35-39),330025000
+1.74,,Malaysia,69.9,,CUT,206,25613,Edmund,M,33,Tan,MY,104,-29,Men,32623200
+1.74,44836,United States,77.6,CrossFit Galvanize,ACT,454,26902,Chad,X,45,Augustin,US,3,520,Men (45-49),330025000
+1.56,44591,United States,90.7,CrossFit Invictus,CUT,114,28040,Eric,M,31,Carmody,US,38,160,Men,330025000
+1.8,44591,United States,77.1,CrossFit Invictus,ACT,405,29109,Nuno,X,40,Costa,US,5,420,Men (40-44),330025000
+1.77,44707,Morocco,83.9,CrossFit The Flying V,CUT,198,32083,Karim,M,33,El Hlimi,MA,110,-35,Men,35685100
+1.56,44819,United States,85.3,CrossFit Dark Side,ACT,503,33259,Vic,X,50,McQuaide,US,3,590,Men (50-54),330025000
+1.8,44640,Iran,79.4,Diablo CrossFit,CUT,203,34025,Payam,M,32,Saljoughian,IR,98,-23,Men,82845400
+1.8,44597,United States,84.8,CrossFit Mentality,ACT,105,34796,Scott,M,31,Panchik,US,4,795,Men,330025000
+1.8,44802,United States,86.2,CrossFit Trivium,ACT,309,35627,Will,M,30,Moorad,US,10,485,Men,330025000
+1.83,44886,United States,93,CrossFit Unrestrained,ACT,558,38826,Ken,X,56,Idler,US,2,530,Men (55-59),330025000
+1.56,44795,United States,88.5,CrossFit Krypton,CUT,15,43761,Ben,M,29,Smith,US,28,217,Men,330025000
+1.68,44878,United States,72.1,Warlock CrossFit,ACT,507,50856,Charles,X,50,Russo,US,8,320,Men (50-54),330025000
+1.8,44880,United States,77.1,CrossFit Rage,ACT,551,53380,Kurt,X,55,Stein,US,4,490,Men (55-59),330025000
+1.55,44757,Iraq,83.9,CrossFit AKA,CUT,223,54259,Mustafa,M,29,El-Lari,IQ,125,-50,Men,39127900
+1.83,44902,United States,83.9,CrossFit Balance,ACT,560,56292,Vincent,X,56,Lopez,US,8,280,Men (55-59),330025000
+1.77,44939,United States,73.9,CrossFit SolaFide,ACT,607,57724,David,X,63,Hippensteel,US,6,400,Men (60+),330025000
+1.55,44906,United States,88.5,CrossFit Duratus,ACT,354,59012,Kevin,X,37,Longmeier,US,7,400,Men (35-39),330025000
+1.8,,United States,82.6,,ACT,559,59899,Will,X,59,Powell,US,6,390,Men (55-59),330025000
+1.56,,United States,90.7,,CUT,111,74320,Samuel,M,23,Kwant,US,13,349,Men,330025000
+1.68,44915,United States,74.8,CrossFit Chomp City,ACT,453,76101,Bob,X,49,Ruano,US,7,390,Men (45-49),330025000
+1.55,44753,Iceland,83.9,CrossFit Hengill,ACT,122,81616,BjÃ¶rgvin Karl,M,26,GuÃ°mundsson,IS,3,888,Men,360390
+1.86,44663,United Kingdom,89.8,CrossFit Yas,CUT,132,86089,Elliot,M,25,Simmonds,GB,19,303,Men,66435600
+1.8,44848,United States,72.6,Superhero CrossFit,ACT,408,86878,Chris,X,41,Anderson,US,10,370,Men (40-44),330025000
+1.8,44971,United States,86.2,CrossFit Crash,CUT,315,93473,Josh,M,30,Miller,US,83,-8,Men,330025000
+1.74,44879,Italy,79.8,CrossFit San Benedetto del Tronto,ACT,456,95809,Bernard,X,48,Luzi,IT,4,510,Men (45-49),60278616
+1.71,44728,Sri Lanka,73.5,CrossFit Ceylon,CUT,221,96918,Andy,M,30,Andrews,LK,138T,-63,Men,21803000
+1.65,44946,United States,70.3,Sumner CrossFit,ACT,360,100797,Mike,X,35,Abgarian,US,8,380,Men (35-39),330025000
+1.55,44736,Zimbabwe,86.2,CrossFit Dignus,CUT,182,105253,Jean-Claude,M,27,Jardim,ZW,76,3,Men,15159624
+1.56,44592,Sweden,94.8,CrossFit Riders,CUT,112,106655,Simon,M,28,MÃ¤ntylÃ¤,SE,45,99,Men,10290832
+1.89,44790,Canada,98.4,Kelowna CrossFit,CUT,308,107101,Brent,M,28,Fikowski,CA,23,243,Men,37770900
+1.8,44834,United States,85.3,CrossFit West Plains,ACT,509,109071,Ryan Joe,X,51,Hamby,US,9,310,Men (50-54),330025000
+1.56,44818,United States,83.9,Offshore CrossFit,ACT,455,110150,Bob,X,46,Jennings,US,9,210,Men (45-49),330025000
+1.86,44919,United States,90.7,Resilience CrossFit,ACT,553,111119,Joe,X,55,Ames,US,1,530,Men (55-59),330025000
+1.55,44977,United States,83.9,Solidarity CrossFit,CUT,316,111592,Connor,M,26,Duddy,US,22,244,Men,330025000
+1.55,44767,Iceland,82.1,CrossFit ReykjavÃ­k,ACT,358,112137,Stefan Helgi,X,36,Einarsson,IS,6,400,Men (35-39),360390
+1.55,44885,United States,83.9,CrossFit Florian,ACT,457,112592,Clint,X,47,Paddock,US,5,410,Men (45-49),330025000
+1.74,44829,United States,83.9,CrossFit Garwood,ACT,451,116627,Justin,X,45,Lasala,US,2,640,Men (45-49),330025000
+1.55,44659,Slovakia,83.9,CrossFit BBros,CUT,149,119313,Erik,M,29,Toth,SK,59,35,Men,5450017
+1.86,44766,South Africa,88.5,CrossFit Kyalami,CUT,137,120333,Jason,M,35,Smith,ZA,29,216,Men,58775022
+1.86,44831,United States,90.7,CrossFit Huntsville,ACT,505,121517,Paul,X,54,McCrary,US,7,350,Men (50-54),330025000
+1.65,44840,United States,68.9,Aloha CrossFit,ACT,552,123429,Allen,X,55,Duarte,US,3,520,Men (55-59),330025000
+1.74,44700,United States,82.6,CrossFit Rejoice,CUT,113,123764,Logan,M,28,Collins,US,14,340,Men,330025000
+1.55,44875,Iceland,91.2,CrossFit Akureyri,ACT,357,125959,SigurÃ°ur,X,35,Ãžrastarson,IS,3,580,Men (35-39),360390
+1.8,44789,United States,87.1,CrossFit Powerstroke,CUT,304,134617,Sean,M,27,Sweeney,US,24,236,Men,330025000
+1.74,44632,United States,88.5,CrossFit Mayhem,ACT,16,153604,Mathew,M,29,Fraser,US,1,984,Men,330025000
+1.55,44588,United States,91.6,CrossFit Spokane Valley,CUT,102,153625,Cole,M,28,Sager,US,11,368,Men,330025000
+1.55,44833,United States,83.9,CrossFit Commence,ACT,506,153858,Jody,X,51,Hendrix,US,4,520,Men (50-54),330025000
+1.74,44758,Mexico,81.6,CrossFit 3 Sons,CUT,144,155471,Darwin,M,30,Perez,MX,54,47,Men,126577691
+1.56,44773,Canada,88.5,CrossFit Solid Ground,CUT,119,158264,Patrick,M,29,Vellner,CA,16,322,Men,37770900
+1.83,44591,Luxembourg,95.3,CrossFit Invictus,CUT,156,160128,Connor,M,25,Nellans,LU,63,31,Men,613894
+1.77,44925,France,91.6,CrossFit Saintes,ACT,355,164390,Alexandre,X,39,Jolivet,FR,4,560,Men (35-39),67055000
+1.56,44816,United States,85.3,CrossFit Southie,ACT,406,167005,Brian,X,41,Campbell,US,7,400,Men (40-44),330025000
+1.55,44820,United States,94.8,CrossFit PR Star,ACT,401,168610,Tony,X,40,Kurz,US,9,380,Men (40-44),330025000
+1.86,44923,United States,94.3,CrossFit SPT,ACT,402,171764,Heath,X,40,Moody,US,8,390,Men (40-44),330025000
+1.74,44725,Finland,84.8,CrossFit Kreis 9,CUT,131,173837,Jonne,M,24,Koski,FI,37,165,Men,5524387
+1.55,44621,Poland,83,CrossFit R99,CUT,129,179080,Bartek,M,29,Lipka,PL,94,-19,Men,38386000
+1.56,44602,Canada,94.3,CrossFit Quebec City,CUT,116,180541,Alex,M,27,Vigneault,CA,25,233,Men,37770900
+0.18,44633,Panama,83.9,Reebok CrossFit PTY,CUT,186,191624,Alvaro,M,33,Lopez,PA,84,-9,Men,4218808
+1.89,44942,United States,93,Precision CrossFit,CUT,401,196667,Hunter,M,30,McIntyre,US,62,31,Men,330025000
+1.8,44645,Bolivia,86.2,Hudson River CrossFit (departed),CUT,184,199533,J. Rodrigo,M,26,Agreda,BO,138T,-63,Men,11469896
+1.77,44590,United States,87.1,Cobra Command CrossFit,ACT,101,199938,Jacob,M,29,Heppner,US,6,694,Men,330025000
+1.83,,Romania,88,,CUT,162,213806,Severin,M,31,Irimia,RO,79,-4,Men,19405156
+1.83,44797,United States,90.7,CrossFit 417,ACT,556,221046,Rob,X,55,Bernet,US,9,260,Men (55-59),330025000
+1.8,44672,New Zealand,88,Thorndon CrossFit,CUT,138,221436,Luke,M,29,Fiso,NZ,53,48,Men,4935240
+1.74,44620,Trinidad and Tobago,80.7,Igone CrossFit,CUT,197,227027,Mattheaus,M,28,Otero,TT,109,-34,Men,1359193
+1.83,44593,Denmark,86.2,CrossFit Skodsborg,CUT,115,230757,Casper,M,28,Gammelmark,DK,20,251,Men,5814461
+1.77,44755,Turkey,76.7,CrossFit Boran,CUT,166,231921,Ates,M,33,Boran,TR,61,33,Men,82003882
+1.74,44765,Portugal,83.9,CrossFit OPO,CUT,155,233855,JoÃ£o,M,24,Ferreira,PT,81,-6,Men,10276617
+1.8,,Qatar,81.2,,CUT,225,235246,Khalid,M,30,Alhamadi,QA,123,-48,Men,2747282
+1.83,44945,United States,102.1,Long Branch CrossFit,WD,510,241233,Mark,X,52,Ziolkowski,US,10,140,Men (50-54),330025000
+1.55,44794,United States,87.1,Shockoe Bottom CrossFit,CUT,306,244353,John-Paul,M,26,Hethcock,US,46,92,Men,330025000
+1.8,44596,United States,88.5,CrossFit Alioth,CUT,109,247005,Streat,M,24,Hoerner,US,88,-13,Men,330025000
+1.83,,Poland,98.9,,CUT,305,250172,Bronislaw,M,30,Olenkowicz,PL,42,112,Men,38386000
+1.86,44887,Canada,90.7,Fort to Fort CrossFit,ACT,403,252855,Robbie,X,42,Perovich,CA,3,510,Men (40-44),37770900
+1.8,44680,India,84.8,CrossFit 7 Seas,CUT,192,253911,Vedharth,M,25,Thappa,IN,134T,-59,Men,1353230000
+0.15,44842,Canada,88.5,CrossFit RDL,ACT,356,255163,Michael,X,37,Laverriere,CA,5,500,Men (35-39),37770900
+1.55,44949,United States,72.6,CrossFit Beaufort,ACT,610,256405,David,X,61,Hardie,US,9,290,Men (60+),330025000
+1.55,44614,Dominican Republic,92.5,CrossFit Steel Factory,CUT,187,256607,Eusebio,M,34,Aldano,DO,82,-7,Men,10358320
+0.03,44636,Venezuela,76.2,CrossFit 4 L,CUT,141,270266,Omar,M,27,Martinez,VE,67,24,Men,32219521
+1.56,44673,Austria,89.8,Triller CrossFit,CUT,147,275390,Christoph,M,31,Koerner,AT,70,18,Men,8877036
+1.74,44739,"Korea, Republic of",78.9,CrossFit Limelight,CUT,150,278578,JiMoo,M,28,Son,KR,108,-33,Men,51811167
+1.8,44822,Italy,81.2,CrossFit Teramo,ACT,460,278581,Giulio,X,46,Silvino,IT,8,270,Men (45-49),60278616
+1.95,44866,Australia,98,Injustice CrossFit,ACT,409,278759,Caine,X,40,Hayes,AU,4,450,Men (40-44),25527200
+1.55,44837,Canada,90.7,CrossFit Connection,ACT,602,283002,Dan,X,60,Brannagan,CA,3,480,Men (60+),37770900
+1.8,,Guatemala,88,,CUT,159,286311,Marlon,M,33,Azurdia,GT,55,46,Men,14901286
+1.83,44658,Germany,86.2,CrossFit Flensburg,CUT,136,286691,Joshua,M,27,Wichtrup,DE,18,315,Men,83042200
+1.8,44668,Cyprus,90.7,CrossFit Limassol,CUT,169,296529,Achilleas,M,28,Pantazis,CY,126,-51,Men,864200
+1.74,44695,Bahrain,81.2,CrossFit Delmon,CUT,191,297397,Majid,M,28,Al Sharaf,BH,99,-24,Men,1543300
+1.83,,United States,86.2,,ACT,501,297488,Gregg,X,50,Geerdes,US,2,620,Men (50-54),330025000
+1.77,44896,United States,76.2,Ocean State CrossFit,ACT,557,299915,Stuart,X,56,Swanson,US,7,350,Men (55-59),330025000
+1.8,44617,Canada,88.5,Tonic CrossFit,CUT,124,308712,Jean-Simon,M,25,Roy-Lemaire,CA,85,-10,Men,37770900
+1.8,44969,United States,83.9,CrossFit Cliffside,ACT,310,310970,Saxon,M,23,Panchik,US,9,587,Men,330025000
+1.74,44638,Jordan,79.8,CrossFit 962,CUT,172,315266,Amin,M,25,Attallah,JO,66,25,Men,10520500
+1.55,44904,United Kingdom,90.7,In2 CrossFit Farnham,ACT,410,318213,Richard,X,40,Vint,GB,2,510,Men (40-44),66435600
+1.77,44722,Uruguay,82.1,Instinto CrossFit,CUT,167,326958,Santiago,M,25,Comba,UY,93,-18,Men,3518552
+1.56,44600,Canada,88.5,Deka CrossFit,CUT,104,327636,Samuel,M,23,Cournoyer,CA,35,186,Men,37770900
+1.8,44687,Israel,72.1,CrossFit Florentin,CUT,151,327773,Yuval,M,31,Regev,IL,121,-46,Men,9097680
+1.8,44606,United States,83.9,BrewCity CrossFit,CUT,103,329279,George,M,20,Sterner,US,32,194,Men,330025000
+1.55,44723,Australia,89.8,CrossFit Townsville,CUT,126,337194,Bayden,M,24,Brown,AU,106,-31,Men,25527200
+1.71,,Honduras,77.1,,CUT,189,345700,Franky,M,31,Wood,HN,87,-12,Men,9158345
+1.8,44610,Spain,73.9,CrossFit Zurriola,CUT,148,351417,Alexander,M,27,Anasagasti,ES,57,41,Men,46934632
+1.55,44760,Barbados,86.2,CrossFit Hammersmith,CUT,214,352604,Richy,M,30,Jordan,BB,120,-45,Men,287025
+1.83,44719,Netherlands,91.2,CrossFit Finestrat,CUT,160,423302,Sam,M,22,Lubben,NL,68,23,Men,17350100
+1.68,44712,Singapore,70.8,CrossFit Mobilus,CUT,199,425160,Ian,M,24,Wee,SG,134T,-59,Men,5703600
+1.8,44669,Lithuania,87.1,CrossFit 82,CUT,143,432338,Arminas,M,26,Balevicius,LT,43,108,Men,2793722
+1.8,44742,Philippines,83.9,Avant Garde CrossFit,CUT,183,434258,Justin,M,25,Hernandez,PH,86,-11,Men,108340000
+1.71,44683,Pakistan,66.2,CrossFit BNB,CUT,216,457993,Bilal,M,31,Tariq,PK,134T,-59,Men,206261000
+1.55,44666,Czech Republic,89.8,CrossFit With Us,CUT,163,458360,David,M,24,Stroupek,CZ,101,-26,Men,10668641
+1.83,44676,Ireland,95.3,CrossFit 8020,CUT,146,461734,Michael,M,27,Smith,IE,26,224,Men,4921500
+1.55,44853,United States,81.6,The Arena Nevada CrossFit,ACT,608,464020,Michael,X,61,Brown,US,7,340,Men (60+),330025000
+1.74,44721,Andorra,86.2,La Borda CrossFit,CUT,190,464588,Enric,M,32,Closa,AD,138T,-63,Men,76177
+1.71,44734,Colombia,74.8,CrossFit Canarias,CUT,161,468290,Bryan,M,21,HernÃ¡ndez,CO,51,53,Men,48258494
+1.77,44804,United States,87.5,CrossFit Sacrifice,CUT,312,469626,Chandler,M,26,Smith,US,15,329,Men,330025000
+1.8,44595,Canada,89.4,CrossFit Wonderland,CUT,117,469656,Jeffrey,M,25,Adler,CA,33,193,Men,37770900
+1.83,44643,Ukraine,88.9,CrossFit Sea Energy,CUT,154,470906,Oleksandr,M,29,Shkoliarenko,UA,71,18,Men,41990278
+1.8,44689,Latvia,83.9,CrossFit Riga,CUT,125,472642,Uldis,M,21,Upenieks,LV,31,194,Men,1911200
+1.77,,Argentina,79.8,,CUT,134,478414,Agustin,M,22,Richelme,AR,50,66,Men,44938712
+1.56,44623,Egypt,92.1,CrossFit MetaliZe,CUT,173,487949,Mohamed,M,31,Elomda,EG,44,100,Men,99390900
+1.89,44768,Jamaica,85.7,Be CrossFit,CUT,208,495051,Sion,M,46,Brinn,JM,105,-30,Men,2726667
+1.55,44752,United States,83.9,LumberYard CrossFit,CUT,106,501728,Jason,M,30,Carroll,US,39,159,Men,330025000
+1.77,,Hungary,84.8,,CUT,139,511473,GÃ¡bor,M,28,TÃ¶rÃ¶k,HU,48,86,Men,9772756
+1.74,44713,Greece,81.2,CrossFit North Zone,CUT,123,514502,Lefteris,M,29,Theofanidis,GR,60,34,Men,10741165
+1.77,44777,United Kingdom,86.2,Blitz CrossFit,ACT,508,519096,Patrick,X,52,Murray,GB,6,490,Men (50-54),66435600
+1.77,44815,United States,74.8,CrossFit Dallas Central,ACT,609,522158,Tom,X,60,de Nolf,US,10,140,Men (60+),330025000
+1.8,44736,Lebanon,79.8,CrossFit Dignus,CUT,194,523439,Moustafa,M,29,Awada,LB,113,-38,Men,6855713
+1.77,44930,United States,86.2,5280 CrossFit,ACT,407,532455,Jason,X,43,Grubb,US,1,640,Men (40-44),330025000
+1.74,44827,United States,74.4,CrossFit Adrenaline,ACT,603,536200,Carl,X,60,Giuffre,US,4,470,Men (60+),330025000
+1.83,44702,Norway,92.1,CrossFit Sandvika,CUT,152,542883,Nicolay,M,29,Billaudel,NO,40,154,Men,5345599
+1.77,44704,Italy,82.1,Reebok CrossFit Officine,CUT,140,544958,Stefano,M,30,Migliorini,IT,128,-53,Men,60278616
+1.74,44649,Cambodia,72.1,CrossFit Yiqi,CUT,222,555634,Kobe,M,31,Khy,KH,132,-57,Men,15288489
+1.56,44605,United States,90.7,Glass City CrossFit,CUT,110,571999,Richard Paul,M,29,Castillo,US,100,-25,Men,330025000
+1.74,44691,Saint Lucia,81.6,CrossFit 414,CUT,226,574502,Heskeith,M,38,Flavien,LC,130,-55,Men,178696
+1.89,44709,Guyana,90.7,CrossFit 592,CUT,213,595818,Dillon,M,23,Mahadeo,GY,96,-21,Men,782766
+1.74,44861,United States,78.5,Renewed Strength CrossFit,ACT,458,631875,Joel,X,45,Hughes,US,1,740,Men (45-49),330025000
+1.55,44618,Saudi Arabia,83.9,966 CrossFit Al-Nahda,CUT,207,639107,Hussain,M,29,Saeedi,SA,114,-39,Men,34218169
+1.74,,Malta,79.8,,CUT,212,644351,Daryl,M,32,Borg,MT,124,-49,Men,493559
+1.74,44684,Bulgaria,73,CrossFit Worlds End,CUT,176,658408,Stavri,M,27,Stavrev,BG,92,-17,Men,7000039
+1.71,44805,Australia,82.1,CrossFit Crossaxed,ACT,311,660204,Matt,M,26,Mcleod,AU,7,671,Men,25527200
+1.56,44890,United States,79.4,Double Down CrossFit,ACT,604,661916,Ken,X,60,Wellner,US,8,310,Men (60+),330025000
+1.89,44690,Bosnia and Herzegovina,87.1,Tantum CrossFit,CUT,170,667464,ÄorÄ‘e,M,24,ÄuriÄ‡,BA,72,16,Men,3301000
+1.55,44715,Belarus,92.1,CrossFit Kaban (departed),CUT,157,675164,Nikita,M,26,Yundov,BY,103,-28,Men,9456200
+1.8,44655,Belgium,86.2,CrossFit Albi,CUT,165,677889,Alban,M,24,Dubois,BE,52,49,Men,11485729
+1.77,44782,United States,86.2,Ft. Wright CrossFit,CUT,313,682551,Ryan,M,25,Sowder,US,30,208,Men,330025000
+1.83,44627,Paraguay,88,BIGG CrossFit Herrera,CUT,177,683220,Diego,M,28,Kemper,PY,78,-3,Men,7152703
+1.89,44693,El Salvador,83.9,RD CrossFit,CUT,211,683301,Rodrigo,M,31,BeltrÃ¡n,SV,112,-37,Men,6704864
+1.8,44660,Brazil,87.1,CrossFit Al Ain,CUT,142,686308,Guilherme,M,19,Malheiros,BR,49,74,Men,210537000
+1.77,,Switzerland,84.8,,ACT,135,698182,Adrian,M,26,Mundwiler,CH,8,632,Men,8570146
+1.55,44688,France,86.2,CrossFit Lutece,CUT,130,702092,Willy,M,26,Georges,FR,21,245,Men,67055000
+1.8,44699,Kuwait,88,Circuit Plus CrossFit Shuwaikh,CUT,185,703126,Khalid,M,32,Aljarallah,KW,77,-2,Men,4420110
+1.77,44870,United States,77.1,Kirkland CrossFit,ACT,502,721301,Kevin,X,52,Koester,US,1,630,Men (50-54),330025000
+1.74,44733,Kosovo,79.8,CrossFit HelvetiX,CUT,205,722854,Robert,M,32,Berisha,XK,118,-43,Men,1795666
+1.56,44685,Estonia,83,CrossFit Tartu,CUT,200,733576,Mihkel,M,24,Keldoja,EE,91,-16,Men,1324820
+1.56,44926,United States,84.4,CrossFit 1st State,ACT,601,750230,Paul,X,60,Perna,US,1,520,Men (60+),330025000
+1.83,44603,United States,93,CrossFit T-Town,CUT,107,755342,Zachery,M,25,Buntin,US,90,-15,Men,330025000
+1.74,44751,Costa Rica,83,Training PIT CrossFit,CUT,164,781908,William,M,28,Sanchez,CR,119,-44,Men,5058007
+1.8,44855,Brazil,84.8,CrossFit Canal,ACT,504,825700,Leonardo Wernersbach,X,52,Lima,BR,5,500,Men (50-54),210537000
+1.65,44711,Viet Nam,63.5,AllSport CrossFit,CUT,228,839047,Keith,M,31,Nhan,VN,138T,-63,Men,96208984
+1.56,44747,Slovenia,86.2,Reebok CrossFit Ljubljana,CUT,181,842919,Aleks,M,26,KoÅ¡tomaj,SI,47,90,Men,2084301
+1.77,,Tunisia,76.2,,CUT,196,844066,Marzougui,M,28,Mootez,TN,75,3,Men,11551448
+1.56,44651,Algeria,86.2,CrossFit TANKA,CUT,202,848265,Chaker,M,30,Alouni,DZ,122,-47,Men,43378027
+0.15,44696,Japan,83.9,BeeGrow CrossFit,CUT,171,849478,Shingo,M,32,Moromasa,JP,65,31,Men,126150000
+1.8,,Mozambique,72.1,,CUT,233,851037,Pack,M,29,Santos,MZ,131,-56,Men,27909798
+1.56,,Croatia,91.2,,CUT,178,858387,Augustin,M,29,Vilicnik,HR,64,31,Men,4130304
+1.74,,Ecuador,79.8,,CUT,180,907105,Sebastian,M,22,Rodriguez,EC,102,-27,Men,17336400
+1.71,44698,Peru,81.2,PUL CrossFit,CUT,174,915210,Jovaldo,M,30,Miranda,PE,115,-40,Men,32131400
+1.86,,Bahamas,88.5,,CUT,219,916290,David,M,28,Morley,BS,111,-36,Men,385340
+1.8,44726,Ghana,83.9,CrossFit Leeds,CUT,230,921544,Edem,M,28,Ahiaku,GH,117,-42,Men,30280811
+1.77,44729,Palestinian Territory,87.1,CrossFit Ramallah,CUT,168,1076087,Hamzeh,M,24,Tarefi,PS,73,13,Men,4976684
+1.74,44975,Papua New Guinea,69.9,CrossFit Port Moresby,CUT,234,1095623,Kila,M,38,Kilaverave,PG,138T,-63,Men,8558800
+1.77,44761,Nicaragua,83.9,CrossFit FE,CUT,193,1122311,Arturocesar,M,21,Mora,NI,134T,-59,Men,6460411
+1.77,44650,Indonesia,69.9,CrossFit 6221,CUT,209,1129621,Mahendra,M,29,Arditirta,ID,116,-41,Men,268074600
+1.83,,Chile,89.8,,CUT,153,1178252,Piero,M,27,Gorichon,CL,74,7,Men,19107216
+1.74,44749,Botswana,66.2,CrossFit Gaborone,CUT,231,1223806,Katlego,M,31,Kgwadi,BW,129,-54,Men,2338851
+1.8,44705,Afghanistan,69.9,CrossFit MalmÃ¶,CUT,227,1306552,Sami,M,30,Salampur,AF,133,-58,Men,32225560
+1.8,44732,Russian Federation,87.1,CrossFit Idol,CUT,133,1325298,Aleksandar,M,29,Ilin,RU,56,45,Men,114500000
+1.55,44738,Oman,91.2,CrossFit Tempo,WD,218,1382942,Aslam,M,27,Al Shukaili,OM,143T,,Men,4670745
+1.86,44681,Angola,96.2,Ultimate Burn CrossFit,CUT,195,1402559,Marco,M,30,Almeida,AO,97,-22,Men,30175553
+1.56,44705,Sweden,91.2,CrossFit MalmÃ¶,ACT,352,1433136,David Santa Cruz,X,37,Borgstrand,SE,9,280,Men (35-39),10290832
+1.77,44628,Belize,77.1,CrossFit Subterranean,CUT,201,1523179,Vernon,M,30,Neal,BZ,80,-5,Men,408487
+1.77,44750,Senegal,76.2,Casa CrossFit Anfa,CUT,229,1523543,Mody,M,39,Traore,SN,127,-52,Men,16209125
+1.83,,Nigeria,87.1,,CUT,188,1692338,Uyi Nosa,M,29,Osawe,NG,69,20,Men,200963599
+1.8,44596,United Arab Emirates,88,CrossFit Alioth,CUT,158,1697328,Mahmood,M,26,Shalan,AE,58,40,Men,9770529
