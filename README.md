@@ -12,7 +12,7 @@ This demonstrates a full-stack data workflow: from raw CSVs, to a scripted data-
 To build a stable and efficient database, I first analyzed the raw data and defined the business rules and functional dependencies.
 
 ### Functional Dependencies
-ComptetitorID -> FirstName, Gender, Age, LastName, OverallRank, OverallScore, Division, Weight
+CompetitorID -> FirstName, Gender, Age, LastName, OverallRank, OverallScore, Division, Weight
 AffiliateID -> AffiliateName
 CountryOfOriginCode -> CountryOfOriginName, CountryPopulation
 workoutIDforDivision -> breakdown, lane, rank, heat, points, time
