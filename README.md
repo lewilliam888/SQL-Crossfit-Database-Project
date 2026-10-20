@@ -54,7 +54,7 @@ This repository shows the full "before" and "after" of the data.
 
 1.  **The "Before":** See the raw `Crossfit Athletes.csv` and `Crossfit Scores.csv` files.
 2.  **The "Solution":** The `Crossfit_ETL_and_Queries.sql` script is the complete ETL and query script.
-3.  **The "After":** The ERD shows the final, 7-table normalized structure.
+3.  **The "After":** The ERD shows the final, 6-table normalized structure.
 4.  **The "Fix":** The `crossfit_athletes_import_fix.sql` script is a custom-built loader to help if facing trouble importing the `Crossfit Athletes.csv` file
 
 **How to run this project:**
@@ -62,7 +62,7 @@ This repository shows the full "before" and "after" of the data.
 2.  Use the MySQL Table Data Import Wizard to import `Crossfit Athletes.csv` (as `crossfit_athletes`) and `Crossfit Scores.csv` (as `crossfit_scores`).
 3.  If having difficulties importing `Crossfit Athletes.csv`, run the `crossfit_athletes_import_fix.sql` script in a new query.
 5.  Run the **`Crossfit_ETL_and_Queries`** script. This script will:
-    * CREATE all 7 new, normalized tables (country, competitor, etc.).
+    * CREATE all 6 new, normalized tables (country, competitor, etc.).
     * INSERT and TRANSFORM the data into these new tables, handling all data cleaning (like NULLIF and LEFT JOINs).
     * DEFINE all Primary and Foreign Keys.
     * RUN 10+ analysis queries to answer the project's business questions.
